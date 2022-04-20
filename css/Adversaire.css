@@ -1,0 +1,401 @@
+@font-face {
+    font-family: 'Spiderman';
+    src: url(Far-From\ Homecoming\ Updated.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300;400&family=Raleway:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Open+Sans:wght@300;400&family=Raleway:wght@400;500&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* navigateur */
+
+.liste {
+    margin-bottom: 0px;
+}
+
+.liste li {
+    margin-right: 5vh;
+    text-align: center;
+    align-items: center;
+}
+
+.liste li a {
+    font-size: 20px;
+}
+
+
+/* vilans */
+
+.venom {
+    background-image: url("../Illustration/img7.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    height: 102vh;
+    padding-top: 55vh;
+    padding-left: 30vh;
+}
+
+.symbiote h1 {
+    font-family: 'Spiderman';
+    font-size: 82px;
+    font-weight: bolder;
+    text-align: justify;
+}
+
+.symbiote h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.supervilains {
+    background-color: #F1C530;
+    height: 420vh;
+    padding-top: 15vh;
+}
+
+
+/* carte de visite des vilains de Tobey1*/
+
+.Tobey1 {
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
+
+#Dennis h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Dennis p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque1 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+#Norman h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Norman p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque2 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+#Otto h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Otto p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque3 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+
+/* carte de visite des vilains de Tobey2*/
+
+.Tobey2 {
+    padding-top: 5vh;
+    padding-right: 20vh;
+    padding-left: 20vh;
+}
+
+#Flint h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Flint p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque4 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+#Harry h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Harry p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque5 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+#Eddie h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Eddie p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque6 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 5vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+
+/* carte de visite des vilains d'Andrew'*/
+
+.Andrew {
+    padding-top: 5vh;
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
+
+#Curtis h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Curtis p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque7 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+#Max h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Max p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque8 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+#Aleks h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Aleks p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque9 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+
+/* carte de visite des vilains de Tom*/
+
+.Tom {
+    padding-top: 5vh;
+    padding-left: 50vh;
+    padding-right: 50vh;
+}
+
+#Toomes h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Toomes p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque10 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+#Quentin h3 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#Quentin p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 4vh;
+}
+
+.plaque11 {
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 1vh;
+    border: 10px solid #000000d3;
+    border-top: none;
+    border-bottom-left-radius: 12%;
+    border-bottom-right-radius: 12%;
+}
+
+
+/* Footer */
+
+footer {
+    height: 50vh;
+    background-color: #000000;
+}
+
+.liste1 {
+    margin-top: 15px;
+    margin-right: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.liste1 a {
+    margin: 0px 10px 0px 10px;
+}
+
+.logo a {
+    margin: 0px 10px 0px 10px;
+}
+
+.liste2 {
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.liste2 a {
+    margin: 0px 10px 0px 10px;
+}
+
+.liste2 select {
+    margin: 0px 10px 0px 10px;
+}
+
+.Langue {
+    padding: 2px 50px 2px 50px;
+    border-radius: 20px;
+}
+
+.réseaux {
+    padding-top: 20vh;
+}
+
+.copy {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}

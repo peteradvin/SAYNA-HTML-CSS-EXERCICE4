@@ -1,0 +1,244 @@
+@font-face {
+    font-family: 'Regular';
+    src: url("../Updated.otf");
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300;400&family=Raleway:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Open+Sans:wght@300;400&family=Raleway:wght@400;500&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.liste {
+    margin-bottom: 0px;
+}
+
+.liste li {
+    margin-right: 5vh;
+    text-align: center;
+    align-items: center;
+}
+
+.liste li a {
+    font-size: 20px;
+}
+
+
+.toile {
+    background-color: #F1C530;
+    height: 89vh;
+}
+
+.driing {
+    padding-top: 50vh;
+    padding-left: 30vh;
+}
+
+.driing h1 {
+    font-family: 'Spiderman';
+    font-size: 82px;
+}
+
+.driing h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+.antenne {
+    background-color: #B11313;
+    height: 130vh;
+    padding-top: 20vh;
+    padding-left: 30vh;
+    padding-right: 30vh;
+}
+
+.web h1 {
+    font-family: "Regular";
+    font-size: 32px;
+}
+
+.web p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.phone {
+    padding-top: 5vh;
+}
+
+.forms {
+    padding-top: 20vh;
+}
+
+.forma {
+    padding: 10px 0px 10px 65px;
+}
+
+.forma1 {
+    padding: 10px 0px 40px 65px;
+}
+
+.inpt {
+    padding-right: 100px;
+    padding-left: 15px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.inpt1 {
+    padding-right: 100px;
+    padding-left: 15px;
+    border: 1px solid #ffffff;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 150px;
+    background: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.envoi1 {
+    padding-left: 23vh;
+}
+
+.envoi1 a button {
+    padding: 8px 40px 8px 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    background: none;
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sayna {
+    background-color: #114c92;
+    height: 120vh;
+    padding-top: 10vh;
+}
+
+.SXM h1 {
+    font-size: 32px;
+    font-family: 'Spiderman';
+    padding-left: 30vh;
+}
+
+.historique {
+    padding-top: 10vh;
+    padding-left: 30vh;
+    padding-right: 30vh;
+}
+
+.création {
+    width: 460px;
+}
+
+.création p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+.sidentifier {
+    width: 460px;
+}
+
+.sidentifier p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+.sociaux {
+    padding-top: 10vh;
+    padding-left: 30vh;
+}
+
+.sociaux h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.plateforme {
+    padding-left: 32vh;
+    padding-right: 32vh;
+}
+
+.pf1 a button {
+    padding: 8px 40px 8px 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    background: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+footer {
+    height: 50vh;
+    background-color: #000000;
+}
+
+.liste1 {
+    margin-top: 15px;
+    margin-right: 10px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.liste1 a {
+    margin: 0px 10px 0px 10px;
+}
+
+.logo a {
+    margin: 0px 10px 0px 10px;
+}
+
+.liste2 {
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.liste2 a {
+    margin: 0px 10px 0px 10px;
+}
+
+.liste2 select {
+    margin: 0px 10px 0px 10px;
+}
+
+.Langue {
+    padding: 2px 50px 2px 50px;
+    border-radius: 20px;
+}
+
+.réseaux {
+    padding-top: 20vh;
+}
+
+.copy {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
